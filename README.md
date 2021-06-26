@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/profile.php?id=100057749130305" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/facebook.svg" alt="zain_ali" height="20" width="20" /></a>
 <a href="https://www.instagram.com/ali_zaini786/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/instagram.svg" alt="zain_ali" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/15990785/zain-ali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.3.0/icons/stackoverflow.svg" alt="zain_ali" height="20" width="20" /></a>
-<a href="skype:zainali.contrive@gmail.com?chat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.3.0/icons/skype.svg" alt="zain_ali" height="20" width="20" /></a>
+<a href="skype:live:.cid.35db33f94242ae7a?chat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.3.0/icons/skype.svg" alt="zain_ali" height="20" width="20" /></a>
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
