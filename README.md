@@ -116,10 +116,23 @@ const zain: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zain534102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zain534102&theme=tokyonight&hide_border=true" />
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=zain534102&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain534102&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<!-- Profile Summary Cards - More Reliable -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zain534102&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zain534102&theme=tokyonight&utcOffset=0" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zain534102&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zain534102&theme=tokyonight" />
+
+<!-- Streak Stats -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=zain534102&theme=tokyonight&hide_border=true" />
+
+<!-- Contribution Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zain534102&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
