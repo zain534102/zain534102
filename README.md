@@ -116,11 +116,6 @@ const zain: Developer = {
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=zain534102&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-
-<br/><br/>
-
 <!-- Profile Summary Cards - More Reliable -->
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zain534102&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zain534102&theme=tokyonight&utcOffset=0" />
