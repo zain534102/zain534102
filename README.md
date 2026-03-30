@@ -1,82 +1,156 @@
-# <h2 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm Zain Ali</h2>
-<p align="center">A professional full-stack web developer from Pakistan</p>
-<p align="center">
-<a href="https://twitter.com/sultancheema097" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zain_ali" height="20" width="20" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/zain-ali-45b93b128/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zain_ali" height="20" width="20" /></a>&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100057749130305" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/facebook.svg" alt="zain_ali" height="20" width="20" /></a>
-<a href="https://www.instagram.com/ali_zaini786/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/instagram.svg" alt="zain_ali" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/15990785/zain-ali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.3.0/icons/stackoverflow.svg" alt="zain_ali" height="20" width="20" /></a>
-<a href="skype:live:.cid.35db33f94242ae7a?chat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.3.0/icons/skype.svg" alt="zain_ali" height="20" width="20" /></a>
+<div align="center">
+
+# Hi there, I'm Zain Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Lead+Engineer+%7C+Full+Stack+Developer;7%2B+Years+of+Building+Scalable+Systems;Laravel+%7C+Vue.js+%7C+AWS+Expert;Turning+Coffee+into+Code+Since+2018)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://www.linkedin.com/in/zain-ali-45b93b128/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:zain534102@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://stackoverflow.com/users/15990785"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://medium.com/@zainali_51768"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<img src="https://komarev.com/ghpvc/?username=zain534102&label=Profile%20views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
 
-### 🤵 About Me:
-- 🏦 I’m currently working as a Freelance Full-Stack Engineer on Upwork and Fiverr. 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.ts```,``` .js```, ```.php```,```.sql```,```.html```,```.css```
-- 🌱 I’m currently learning docker aws and angular ngrx
-- 💬 Talk to me about js, php (both of these are not any kind of insect or animals) and web development
-- 😄 Pronouns: He/Him
-- 📝 I regulary write articles on [Medium](https://medium.com/@zainali_51768)
-- 👯 We can connect on [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=zain534102@gmail.com.com&su=Meet)♟ to have some more clearity
-- ⚡ Fun fact: Je connais un peu le français
-
-<p align="center">
-<img src="https://cdn.rawgit.com/konpa/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="60" height="60"/> 
-<img src="https://cdn.rawgit.com/konpa/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
-<img src="https://cdn.rawgit.com/konpa/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="60" height="60"/>
-<img src="https://cdn.rawgit.com/konpa/devicon/master/icons/vuejs/vuejs-plain.svg" alt="vue" width="60" height="60"/>
-<img src="https://cdn.rawgit.com/konpa/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> 
-<img src="https://cdn.rawgit.com/konpa/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="60" height="60"/>
-<img src="https://cdn.rawgit.com/konpa/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgre_sql" width="60" height="60"/> 
-<img src="https://cdn.rawgit.com/konpa/devicon/master/icons/php/php-plain.svg" alt="c" width="60" height="60"/> 
-<img src="https://cdn.rawgit.com/konpa/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="60" height="60"/> 
-<img src="https://cdn.rawgit.com/konpa/devicon/master/icons/html5/html5-plain.svg" alt="html" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="60" height="60"/>
-<img src="https://cdn.rawgit.com/konpa/devicon/master/icons/css3/css3-plain.svg" alt="CSS" width="60" height="60"/> 
-</p>
-
----
-### 🐱My Github stats:
-![Zain's github stats](https://github-readme-stats.vercel.app/api?username=zain534102&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zain534102&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    01 commits     ███░░░░░░░░░░░░░░░░░░░░░░   10% 
-🌆 Daytime    01 commits     ██████░░░░░░░░░░░░░░░░░░░   10% 
-🌃 Evening    06 commits     █████████████░░░░░░░░░░░░   60% 
-🌙 Night      02 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   20%
-
-```
-📅 **I'm Most Productive on Weekends** 
-
-```text
-Monday       01 commits     ████░░░░░░░░░░░░░░░░░░░░░   10% 
-Tuesday      01 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
-Wednesday    01 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
-Thursday     01 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   10% 
-Friday       01 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   10% 
-Saturday     03 commits     ██████░░░░░░░░░░░░░░░░░░░   30% 
-Sunday       02 commits     ███████░░░░░░░░░░░░░░░░░░   20%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-07-2021.
+</div>
 
 ---
 
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-----
-Credit: [Zain Ali](https://github.com/zain534102)
+```typescript
+const zain: Developer = {
+    role: "Lead Engineer @ AVRillo R&D",
+    location: "United Kingdom",
+    experience: "7+ years",
+    education: "BSc Software Engineering",
 
-Last Edited on: 07/11/2021
+    currentFocus: [
+        "Building scalable conveyancing platforms",
+        "Leading development teams",
+        "Cloud architecture & DevOps"
+    ],
+
+    funFact: "I've built systems handling 20k+ daily transactions"
+};
+```
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+- **Lead Engineer** at **AVRillo R&D Ltd**, UK's premier conveyancing company
+- Managing a team of developers, architecting solutions at scale
+- Previously at **DigitalTolk** (Sweden) - platform serving 40k+ government entities
+- Built systems from scratch handling **20,000+ daily bookings**
+- Passionate about **clean code**, **DDD**, and **microservices**
+- Currently exploring **Docker**, **AWS**, and **Angular ngrx**
+
+<br clear="right"/>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Tech Stack
+
+<div align="center">
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Mobile
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Testing
+![Pest](https://img.shields.io/badge/Pest-F28D1A?style=for-the-badge&logo=php&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **AVRillo Quote System** | Internal conveyancing operations platform with AI-powered document processing & WhatsApp integration | Laravel, Nuxt 3, AWS, Pinia |
+| **AVRillo Client Portal** | Client dashboard for case tracking, e-signatures & document management serving thousands of users | Laravel, Vue 3, PHPWord, SOAP APIs |
+| **AVRillo eMove** | Cross-platform mobile app for estate agents | Quasar 2, Capacitor, Vue 3, TypeScript |
+| **DigitalTolk** | Booking platform matching interpreters with 40k+ government entities (20k+ daily bookings) | Laravel, Vue, Microservices, AWS Lambda |
+| **Grundsteuerloesung** | German property tax digitalization platform with government API integration | Vue 3, Laravel 8, Bootstrap |
+| **InboxFreedom** | AI-powered SaaS for email filtering across multiple providers | Laravel Sail, Vue 3, OAuth 2.0, Cypress |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="25"> GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zain534102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zain534102&theme=tokyonight&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain534102&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60"> Let's Connect
+
+<div align="center">
+
+I'm always interested in collaborating on innovative projects or discussing tech!
+
+<a href="https://www.linkedin.com/in/zain-ali-45b93b128/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243f3f0e9.png"/>
+</a>
+<a href="mailto:zain534102@gmail.com">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845c0c9f2.png"/>
+</a>
+<a href="https://stackoverflow.com/users/15990785">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+</a>
+
+---
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Open for opportunities
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
