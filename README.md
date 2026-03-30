@@ -95,18 +95,69 @@ const zain: Developer = {
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
+## Career Highlights
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **AVRillo Quote System** | Internal conveyancing operations platform with AI-powered document processing & WhatsApp integration | Laravel, Nuxt 3, AWS, Pinia |
-| **AVRillo Client Portal** | Client dashboard for case tracking, e-signatures & document management serving thousands of users | Laravel, Vue 3, PHPWord, SOAP APIs |
-| **AVRillo eMove** | Cross-platform mobile app for estate agents | Quasar 2, Capacitor, Vue 3, TypeScript |
-| **DigitalTolk** | Booking platform matching interpreters with 40k+ government entities (20k+ daily bookings) | Laravel, Vue, Microservices, AWS Lambda |
-| **Grundsteuerloesung** | German property tax digitalization platform with government API integration | Vue 3, Laravel 8, Bootstrap |
-| **InboxFreedom** | AI-powered SaaS for email filtering across multiple providers | Laravel Sail, Vue 3, OAuth 2.0, Cypress |
+<img src="https://img.shields.io/badge/7%2B-Years%20Experience-3B82F6?style=for-the-badge&labelColor=1E3A5F" />
+<img src="https://img.shields.io/badge/20K%2B-Daily%20Transactions-10B981?style=for-the-badge&labelColor=064E3B" />
+<img src="https://img.shields.io/badge/40K%2B-Government%20Entities%20Served-8B5CF6?style=for-the-badge&labelColor=4C1D95" />
+<img src="https://img.shields.io/badge/5%2B-Dev%20Teams%20Led-F59E0B?style=for-the-badge&labelColor=78350F" />
+
+</div>
+
+---
+
+## What I Do
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /><br/>
+<b>Backend Development</b><br/>
+<sub>Laravel, Node.js, REST APIs, Microservices, Queue Systems</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Frontend-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /><br/>
+<b>Frontend Development</b><br/>
+<sub>Vue 3, Nuxt, Angular, TypeScript, Tailwind CSS</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
+<b>Cloud & DevOps</b><br/>
+<sub>AWS, Docker, CI/CD, Laravel Forge, Cloudflare</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Leadership-6366F1?style=for-the-badge&logo=teamspeak&logoColor=white" /><br/>
+<b>Team Leadership</b><br/>
+<sub>Code Reviews, Mentoring, Architecture Decisions</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Work Experience
+
+<div align="center">
+
+```
+🏢 AVRillo R&D Ltd          │  Lead Engineer           │  Oct 2023 - Present  │  🇬🇧 London, UK
+                            │  Building conveyancing platforms, leading dev teams
+────────────────────────────┼──────────────────────────┼──────────────────────┼─────────────────
+🏢 DigitalTolk              │  Senior Full Stack Dev   │  Jan 2023 - Oct 2023 │  🇸🇪 Stockholm
+                            │  Microservices for 40k+ government entities
+────────────────────────────┼──────────────────────────┼──────────────────────┼─────────────────
+🏢 Contrive Solutions       │  Full Stack Developer    │  Apr 2021 - Jan 2023 │  🌍 Remote
+                            │  Enterprise portals & eCommerce solutions
+────────────────────────────┼──────────────────────────┼──────────────────────┼─────────────────
+🏢 ESP Inspire              │  Full Stack PHP Dev      │  Mar 2020 - Apr 2021 │  🇺🇸 USA (Remote)
+                            │  Real-time client projects & core systems
+```
 
 </div>
 
