@@ -138,27 +138,35 @@ const zain: Developer = {
 
 ---
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60"> Let's Connect
+## Let's Connect
 
 <div align="center">
 
-I'm always interested in collaborating on innovative projects or discussing tech!
+I'm always open to collaborating on innovative projects or discussing tech!
+
+<br/>
 
 <a href="https://www.linkedin.com/in/zain-ali-45b93b128/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243f3f0e9.png"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
 </a>
+&nbsp;
 <a href="mailto:zain534102@gmail.com">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845c0c9f2.png"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35"/>
 </a>
+&nbsp;
 <a href="https://stackoverflow.com/users/15990785">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" height="35"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@zainali_51768">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="35"/>
 </a>
 
----
+<br/><br/>
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Open for opportunities
+### Open for Opportunities
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Got+an+interesting+project%3F+Let's+talk!;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 </div>
 
